@@ -1,7 +1,7 @@
-Project Description:
+# Project Description:
 The Supply Chain Performance Dashboard project aims to develop a comprehensive, interactive dashboard that provides real-time insights into various aspects of the supply chain. This dashboard will be designed to help supply chain managers and stakeholders monitor key performance indicators (KPIs), identify bottlenecks, optimize operations, and enhance decision-making processes.
 
-Objectives:
+# Objectives:
 
 1.Real-Time Monitoring: Provide up-to-date information on supply chain activities.
 2.Performance Tracking: Track key performance indicators (KPIs) to evaluate supply chain efficiency.
@@ -12,7 +12,7 @@ Objectives:
 7.Demand Forecasting: Predict future demand to improve planning and procurement.
 
 
-Key Insights:
+# Key Insights:
 
 Overall Performance: The dashboard shows several high-level KPIs, including:
 
@@ -26,5 +26,5 @@ Overall Performance: The dashboard shows several high-level KPIs, including:
 8.Detailed Data Tables: The dashboard includes detailed tables with specific numbers for different metrics across various categories or time periods.
 9.Scatter Plots: There are scatter plot visualizations that could be used to identify correlations between different metrics or outliers in the data.
 
-Description:
+# Description:
 This Supply Chain Dashboard is a comprehensive tool designed to monitor and analyze key aspects of MART's supply chain performance. It provides a mix of high-level KPIs and detailed breakdowns, allowing users to get both an overview and drill down into specific areas.The dashboard uses a variety of visualization techniques including sparklines, bar charts, tables, and scatter plots to present data in an easily digestible format. It appears to focus on metrics related to delivery performance, inventory management, and order fulfillment.The ability to filter data and compare performance across different cities suggests that this is a tool for managing a complex, multi-location supply chain operation. The inclusion of actual vs. target comparisons for various metrics indicates a focus on performance improvement and goal-setting.This dashboard would be valuable for supply chain managers and executives to quickly assess the health of their operations, identify areas for improvement, and make data-driven decisions to optimize the supply chain.
